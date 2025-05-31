@@ -3,6 +3,7 @@ This tool is for take all the jobs in the website and classified by locations.
 
 ## Installation
 # Create your enviroment in python
+# This app have been tested with python 3.13
 Then
 Use pip to install the requirements
 
